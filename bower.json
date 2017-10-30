@@ -1,0 +1,17 @@
+{
+  "name": "name",
+  "description": "JS Pomodoro Clock - FreeCodeCamp Advanced Front End App",
+  "main": "javascript.js",
+  "authors": [
+    "szelares <szelares@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/szelares/pomodoroClock",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
